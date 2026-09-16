@@ -1,0 +1,10 @@
+# Ignorar dependencias
+node_modules/
+
+# Ignorar variables de entorno (credenciales)
+.env
+
+node_modules/
+.env
+.vs/
+
